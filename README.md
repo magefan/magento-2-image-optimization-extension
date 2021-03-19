@@ -109,3 +109,4 @@ Check [this short video](https://www.youtube.com/watch?v=zzK9SJ1-wn4) to learn h
   * [Magento 2 WebP Optimized Images Extension](https://magefan.com/magento-2-webp-optimized-images)
   * [Magento 2 Zendesk Chat Extension](https://magefan.com/magento-2-zendesk-chat-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
+  * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
