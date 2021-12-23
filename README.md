@@ -82,7 +82,7 @@ It wouldn't be very convenient to provide you with the solution you’d need to 
 
 Check [this short video](https://www.youtube.com/watch?v=zzK9SJ1-wn4) to learn how images are loaded with the lazy loading feature and [this video](https://www.youtube.com/watch?v=kBgy2grcPuQ) to know more about the loading of the WebP images.
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
