@@ -1,4 +1,6 @@
 # Magento 2 Image Optimization Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-images-optimization.webp">
 
 [Image Optimization extension for Magento 2](https://magefan.com/magento-2-image-optimization-extension) will help you to improve your website speed and reduce the page size using a bundle of products: Magento 2 WebP Images and Magento 2 Lazy Load. Both of them allow you to optimize images, reduce the page size and boost website performance in general.
