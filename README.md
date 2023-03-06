@@ -155,6 +155,7 @@ Check [this short video](https://www.youtube.com/watch?v=zzK9SJ1-wn4) to learn h
   
   ### Shopware Extensions
   * [Shopware WebP Extension](https://magefan.com/shopware/extensions/webp)
+  * [Shopware Blog Extension](https://magefan.com/shopware/extensions/blog)
    
   ### Shopify Apps
   * [Shopify Login As Customer](https://apps.shopify.com/login-as-customer)
