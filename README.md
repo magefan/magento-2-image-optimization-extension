@@ -159,3 +159,4 @@ Check [this short video](https://www.youtube.com/watch?v=zzK9SJ1-wn4) to learn h
    
   ### Shopify Apps
   * [Shopify Login As Customer](https://apps.shopify.com/login-as-customer)
+  * [Shopify Blog](https://apps.shopify.com/magefan-blog)
