@@ -95,6 +95,7 @@ Check [this short video](https://www.youtube.com/watch?v=zzK9SJ1-wn4) to learn h
   * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
   * [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)
   * [Magento 2 Google Shopping Feed](https://magefan.com/magento-2-google-shopping-feed-extension)
+  * [Magento 2 Google Tag Manager](https://magefan.com/magento-2-google-tag-manager)
   * [Magento 2 Product Tabs Extension](https://magefan.com/magento-2/extensions/product-tabs)
   * [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
